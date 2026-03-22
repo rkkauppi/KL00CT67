@@ -5,3 +5,4 @@
 - [**Tehtävä 3**](/tehtavat/t3.md)
 - [Tehtävä 4](/tehtavat/t4.md)
 - [**Tehtävä 5**](/tehtavat/t5.md)
+- [**Tehtävä 6**](/tehtavat/t6.md)
