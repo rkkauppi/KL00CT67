@@ -6,3 +6,4 @@
 - [Tehtävä 4](/tehtavat/t4.md)
 - [**Tehtävä 5**](/tehtavat/t5.md)
 - [**Tehtävä 6**](/tehtavat/t6.md)
+- [**Tehtävä 7**](/tehtavat/t7.md)
